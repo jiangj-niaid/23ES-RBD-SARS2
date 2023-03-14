@@ -1,14 +1,15 @@
 # RBD-SARS2
-Description
 
-"Antibody Recognition of Epitopic Sites on the Receptor Binding Domain of SARS-CoV-2"
+# Description
+
+**Antibody Recognition of Epitopic Sites on the Receptor Binding Domain of SARS-CoV-2**
 
 Authors: J. Jiang, C.T. Boughter, J. Ahmad, K. Natarajan, L.F. Boyd, M. Meier-Schellersheim, D.H. Margulies
 
 
 These are the produced data and supplementary tables for the above article.
 
-List of Files
+# List of Files
 
 01.	Suppl.Table.2A - Annotations for 340 Antibodies/RBD structures
 02.	Suppl.Table.2B - Annotations for 83 Nanoibodies/RBD structures
@@ -27,7 +28,7 @@ List of Files
 
 
 
-References
+# References
 
 
-Acknowledgements
+# Acknowledgements
