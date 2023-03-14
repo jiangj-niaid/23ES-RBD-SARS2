@@ -2,7 +2,8 @@
 Description
 
 "Antibody Recognition of Epitopic Sites on the Receptor Binding Domain of SARS-CoV-2"
-Authors: Jiansheng Jiang, Christopher T. Boughter, Javeed Ahmad, Kannan Natarajan, Lisa F. Boyd, Martin Meier-Schellersheim, David H. Margulies
+
+Authors: J. Jiang, C.T. Boughter, J. Ahmad, K. Natarajan, L.F. Boyd, M. Meier-Schellersheim, D.H. Margulies
 
 
 These are the produced data and supplementary tables for the above article.
