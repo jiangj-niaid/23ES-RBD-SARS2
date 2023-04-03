@@ -23,8 +23,6 @@ These are the produced data and supplementary tables for the above article.
 08. Figure.2D - Illustration of 23 Epitope Sites on RBD surface
 09. Suppl.Table.4A - Clusters of antibody with similarity 0.85
 10. Suppl.Table.4B - Clusters of nanobody with similarity 0.85
-11. Suppl.Movie.1A - 23 Epitope Sites on RBD surface (by Pymol)
-12. Suppl.Movie.1B - 23 Epitope Sites on RBD surface (by ChimeraX)
 
 
 
