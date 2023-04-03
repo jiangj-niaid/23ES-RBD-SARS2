@@ -2,7 +2,7 @@
 
 # Description
 
-**Antibody Recognition of Epitopic Sites on the Receptor Binding Domain of SARS-CoV-2**
+**SARS-CoV-2 antibodies distinguish 23 distinct epitopic sites on the Receptor Binding Domain**
 
 Authors: J. Jiang, C.T. Boughter, J. Ahmad, K. Natarajan, L.F. Boyd, M. Meier-Schellersheim, D.H. Margulies
 
