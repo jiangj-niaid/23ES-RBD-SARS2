@@ -1,28 +1,36 @@
 # RBD-SARS2
 
-# Description
+# SARS-CoV-2 antibodies recognize 23 distinct epitopic sites on the receptor binding domain
 
-**SARS-CoV-2 antibodies distinguish 23 distinct epitopic sites on the Receptor Binding Domain**
+Authors: J. Jiang1, C.T. Boughter2, J. Ahmad1, K. Natarajan1, L.F. Boyd1, M. Meier-Schellersheim2, D.H. Margulies1
 
-Authors: J. Jiang, C.T. Boughter, J. Ahmad, K. Natarajan, L.F. Boyd, M. Meier-Schellersheim, D.H. Margulies
+1Molecular Biology Section, and 2Computational Biology Section, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD 10892, USA
+
+Preprint at Research Square:  https://doi.org/10.21203/rs.3.rs-2800118/v1
+
+
+# Abstract
+The COVID-19 pandemic and SARS-CoV-2 variants have dramatically illustrated the need for a better understanding of antigen (epitope)-antibody (paratope) interactions. To gain insight into the immunogenic characteristics of epitopic sites (ES), we systematically investigated the structures of 340 Abs and 83 nanobodies (Nbs) complexed with the Receptor Binding Domain (RBD) of the SARS-CoV-2 spike protein. We identified 23 distinct ES on the RBD surface and determined the frequencies of amino acid usage in the corresponding CDR paratopes. We describe a clustering method for analysis of ES similarities that reveals binding motifs of the paratopes and that provides insights for vaccine design and therapies for SARS-CoV-2, as well as a broader understanding of the structural basis of Ab-protein antigen (Ag) interactions.
 
 
 These are the produced data and supplementary tables for the above article.
 
 # List of Files
 
-01.	Suppl.Table.2A - Annotations for 340 Antibodies/RBD structures
-02.	Suppl.Table.2B - Annotations for 83 Nanoibodies/RBD structures
+01.	Suppl.Data.1 - Annotations for 340 Antibodies/RBD structures
+02.	Suppl.Data.2 - Annotations for 83 Nanoibodies/RBD structures
 03.	Raw-Data - Contact distances for 340 Antibody H-chains
 03.	Raw-Data - Contact distances for 340 Antibody L-chains
 04.	Raw-Data - Contact distances for 83 Nanobodies
-05. Suppl.Table.3A - 340 Antibody H-chains paratope residues statistics
-05. Suppl.Table.3B - 340 Antibody L-chains paratope residues statistics
-06. Suppl.Table.3C - 83 Nanobody paratope residues statistics
+05. Suppl.Table.2A - 340 Antibody H-chains paratope residues statistics
+05. Suppl.Table.2B - 340 Antibody L-chains paratope residues statistics
+06. Suppl.Table.2C - 83 Nanobody paratope residues statistics
 07. Table.2A - Definition of 23 Epitope Sites (ES)
 08. Figure.2D - Illustration of 23 Epitope Sites on RBD surface
-09. Suppl.Table.4A - Clusters of antibody with similarity 0.85
-10. Suppl.Table.4B - Clusters of nanobody with similarity 0.85
+09. Suppl.Table.3A - Clusters of antibody with similarity 0.85
+10. Suppl.Table.3B - Clusters of nanobody with similarity 0.85
+11. Suppl.Movie.1A - 23 Epitope Sites on RBD surface (by Pymol)
+12. Suppl.Movie.1B - 23 Epitope Sites on RBD surface (by Pymol)
 
 
 
