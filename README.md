@@ -12,6 +12,7 @@ Preprint at Research Square:  https://doi.org/10.21203/rs.3.rs-2800118/v1
 The COVID-19 pandemic and SARS-CoV-2 variants have dramatically illustrated the need for a better understanding of antigen (epitope)-antibody (paratope) interactions. To gain insight into the immunogenic characteristics of epitopic sites (ES), we systematically investigated the structures of 340 Abs and 83 nanobodies (Nbs) complexed with the Receptor Binding Domain (RBD) of the SARS-CoV-2 spike protein. We identified 23 distinct ES on the RBD surface and determined the frequencies of amino acid usage in the corresponding CDR paratopes. We describe a clustering method for analysis of ES similarities that reveals binding motifs of the paratopes and that provides insights for vaccine design and therapies for SARS-CoV-2, as well as a broader understanding of the structural basis of Ab-protein antigen (Ag) interactions.
 
 <img width="440" alt="RepoCard" src="https://github.com/jiangj-niaid/RBD-SARS2/assets/75588673/7d5ed76b-95b0-4ddf-acb0-35d306fe2e68">
+
 https://github.com/jiangj-niaid/RBD-SARS2/assets/75588673/82d1fcac-b043-4297-88ad-1feb92c8fff0
 https://github.com/jiangj-niaid/RBD-SARS2/assets/75588673/56760cd7-e26f-467f-874a-78d9867387c7
 
